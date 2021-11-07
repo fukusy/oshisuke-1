@@ -39,13 +39,6 @@
 
 
 
-## チャレンジ要素
-
-[チャレンジ要素一覧](https://docs.google.com/spreadsheets/d/1hUAmSCxwUCo95x0j8BiK1SSDnThuxjX5V71wlllhOaw/edit#gid=0)</br>
-[チャレンジ要素一覧と優先順位](https://docs.google.com/spreadsheets/d/1Dy2V9ide4YK0uVMiaJElLjA7scAmDhEMHI9GaVzgIGc/edit#gid=0)
-
-
-
 ## 開発環境
 
 - OS：Linux(CentOS)
